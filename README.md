@@ -1,5 +1,5 @@
-<p style="text-align: center;">
-  <img src="assets/logo.png" alt="Blackfight Academy Logo" width="500"/>
+<p align="center">
+  <img src="assets/logo.png" alt="Blackfight Academy Logo" width="250" height="250"/>
 </p>
 
 # Blackfight Studios - GitHub Academy
