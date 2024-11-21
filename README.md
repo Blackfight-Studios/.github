@@ -44,7 +44,7 @@ We welcome developers from all backgrounds to contribute to our projects. Whethe
 
 ## Current Projects
 
-You can find a list of our active projects in the [Projects](https://github.com/Blackfight-Studios/Projects) repository.
+You can find a list of our active projects in the [Projects](https://github.com/Blackfight-Studios/repositories) repository.
 
 ## License
 
